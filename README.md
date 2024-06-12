@@ -22,7 +22,6 @@ streamlit run create_database.py
 ```
 
 ## DEPENDENCIES
-
 -Streamlit: Open-source app framework for Machine Learning and Data Science projects.
 -SQLite: Self-contained, serverless, zero-configuration, transactional SQL database engine.
 -Python: Programming language used to develop the application.
